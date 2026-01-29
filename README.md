@@ -18,6 +18,10 @@
 
 이 레포지토리의 파일들을 로컬의 `.claude` 혹은 프로젝트의 `.claude` 폴더로 옮겨 사용할 수 있습니다.
 
+## 영감
+
+이 레포지토리는 [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)에서 영감을 받았습니다.
+
 ## 라이선스
 
 MIT License
